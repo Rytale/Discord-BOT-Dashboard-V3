@@ -11,7 +11,7 @@ In this version of the dashboard,
 * 🧑 **User** :
 * You now have the option to connect without being an admin and get an access to the User Dashboard, 
 * The User Dashboard let users manage the bot on their servers.
-* 📋 **Little change** :
+* 📋 **Little changes** :
 * If you don't have a profile picture for your account or your server, it will now put one of the basic one made by discord,
 * A button on top of the "Logout" named "Administration Panel" only available for admins letting them use the Dashboard V2 to manage the bot ( all made by LachlanDev on the V2 ).
 * 🔐 **Security** : 
