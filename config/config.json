@@ -1,0 +1,9 @@
+{
+    "clientID":"",
+    "clientSecret":"",
+    "callbackURL":"",
+    "Admin":[""],
+    "token":"",
+    "prefix":"",
+    "port":""
+}
