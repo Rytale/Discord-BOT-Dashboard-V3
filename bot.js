@@ -4,7 +4,7 @@ const Enmap = require("enmap");
 const fs = require("fs");
 json = require('json-update');
 
-const client = new Discord.Client({ intents: [Intents.FLAGS.GUILDS] });
+const client = new Discord.Client({ intents: [32767] });
 const config = require('./config/config.json')
 const settings = require('./config/settings.json')
 client.commands = new Enmap();

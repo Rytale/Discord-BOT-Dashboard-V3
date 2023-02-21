@@ -7,7 +7,8 @@ canvas {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #607D8B;
+  background: rgb(255,29,29);
+  background: linear-gradient(90deg, rgba(255,29,29,0.8491771708683473) 0%, rgba(118,9,121,1) 67%, rgba(0,212,255,1) 100%);
 }
 
 .text {
@@ -15,7 +16,7 @@ canvas {
   top: 50%;
   right: 50%;
   transform: translate(50%, -50%);
-  color: #CFD8DC;
+  color: rgba(0,212,255,1);
   max-width: 90%;
   padding: 2em 3em;
   background: rgba(0, 0, 0, 0.4);
@@ -42,7 +43,7 @@ a:focus {
 
 .button {
   border-radius: 4px;
-  background-color: #546E7A;
+  background-color: #D328D3;
   border: none;
   color: #FFFFFF;
   text-align: center;
